@@ -23,6 +23,7 @@ Mr. Speaker, since this is the last time that this, the saddest of duties, falls
 Before listing my engagements, because this is the last time that I will be able to do so, may I thank you, Mr. Speaker, for your gentle courtesy and kind forbearance toward me over the years? I have had need of both.（夸奖议长，议长笑了）
 
 <img src="/image/english02.jpg">
+
 Now to my engagements. This morning, I had meetings with ministerial colleagues and others. In addition to my duties in the House, I will have no such further meetings today, or any other day.（每周开场白，不过这次与以往有些不同）
 
 （二） Mr. Cameron: On behalf of everyone on these Benches, may I congratulate the right hon. Gentleman on his remarkable achievement of being Prime Minister for 10 years? [Hon. Members: “Hear, hear.”] For all the heated battles across the Dispatch Box, for 13 years he has led his party, for 10 years he has led our country, and no one can be in any doubt about the huge efforts he has made in public service. He has considerable achievements to his credit, whether it is peace in Northern Ireland or his work in the developing world, which will endure. I am sure that life in the public eye has sometimes been tough on his family, so on behalf of my party may I wish him and his family well, and wish him every success in whatever he does in future?（保守党领袖卡梅伦致欢送词，对布莱尔评价还是比较高，布莱尔这时就老实得很）
