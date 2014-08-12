@@ -38,7 +38,7 @@ The Prime Minister: Let me thank the right hon. Gentleman for those very generou
 
 （三）Sir Nicholas Winterton (Macclesfield) (Con): I wish the Prime Minister and his family well for the future, but is he aware that a majority of the people of the United Kingdom feel betrayed by the fact that they are being drawn down further into the suffocating quicksand and expensive bureaucracy of the European Union? If he and his successor genuinely believe in trusting the people of this country as they claim, will they now honour their commitment at the last general election to a referendum to enable the people to decide on the new treaty that is in substance the old discredited constitutional treaty?（这老头很生猛）
 
-<img src="/image/english06.jpg">
+<center><img src="/image/english06.jpg"></center>
 
 Hon. Members: More!
 
