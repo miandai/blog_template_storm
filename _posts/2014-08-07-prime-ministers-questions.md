@@ -20,7 +20,7 @@ Mr. Speaker, since this is the last time that this, the saddest of duties, falls
 
 <center>![hello world](./image/english01.jpg)
 
-<img src="/image/english01.jpg">
+<img style="float: right" src="/image/english01.jpg">
 
 Before listing my engagements, because this is the last time that I will be able to do so, may I thank you, Mr. Speaker, for your gentle courtesy and kind forbearance toward me over the years? I have had need of both.（夸奖议长，议长笑了）
 
