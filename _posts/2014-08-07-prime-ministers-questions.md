@@ -23,18 +23,18 @@ Mr. Speaker, since this is the last time that this, the saddest of duties, falls
 
 Before listing my engagements, because this is the last time that I will be able to do so, may I thank you, Mr. Speaker, for your gentle courtesy and kind forbearance toward me over the years? I have had need of both.（夸奖议长，议长笑了）
 
-<img src="/image/english02.jpg">
+<center><img src="/image/english02.jpg"></center>
 
 Now to my engagements. This morning, I had meetings with ministerial colleagues and others. In addition to my duties in the House, I will have no such further meetings today, or any other day.（每周开场白，不过这次与以往有些不同）
 
 （二） Mr. Cameron: On behalf of everyone on these Benches, may I congratulate the right hon. Gentleman on his remarkable achievement of being Prime Minister for 10 years? [Hon. Members: “Hear, hear.”] For all the heated battles across the Dispatch Box, for 13 years he has led his party, for 10 years he has led our country, and no one can be in any doubt about the huge efforts he has made in public service. He has considerable achievements to his credit, whether it is peace in Northern Ireland or his work in the developing world, which will endure. I am sure that life in the public eye has sometimes been tough on his family, so on behalf of my party may I wish him and his family well, and wish him every success in whatever he does in future?（保守党领袖卡梅伦致欢送词，对布莱尔评价还是比较高，布莱尔这时就老实得很）
 
-<img src="/image/english03.jpg">
-<img src="/image/english04.jpg">
+<center><img src="/image/english03.jpg">
+<img src="/image/english04.jpg"></center>
 
 The Prime Minister: Let me thank the right hon. Gentleman for those very generous sentiments. For all the political disagreements between us, it is always important to be able to work with people on issues of national importance across the political divide, and I have always found him most proper, correct and courteous in his dealings with me, and I thank him for that. Although I cannot wish him well politically, none the less, personally, I wish him and his family very well indeed.（布莱尔致谢）
 
-<img src="/image/english05.jpg">
+<center><img src="/image/english05.jpg"></center>
 
 （三）Sir Nicholas Winterton (Macclesfield) (Con): I wish the Prime Minister and his family well for the future, but is he aware that a majority of the people of the United Kingdom feel betrayed by the fact that they are being drawn down further into the suffocating quicksand and expensive bureaucracy of the European Union? If he and his successor genuinely believe in trusting the people of this country as they claim, will they now honour their commitment at the last general election to a referendum to enable the people to decide on the new treaty that is in substance the old discredited constitutional treaty?（这老头很生猛）
 
@@ -44,12 +44,12 @@ Hon. Members: More!
 
 The Prime Minister: First, I like the hon. Gentleman, and what I am about to say is no disrespect to him at all, but after the guttural roar from his own Benches that greeted his statement, I really believe that if I were the leader of the Conservative party I would be worried about that. I am afraid that we cannot agree on the treaty, but as for his good wishes to me, may I say to him au revoir, auf Wiedersehen and arrivederci?（最后几个词是几个外语，分别是再见，再见，再见，把老头逗笑了）
 
-<img src="/image/english07.jpg">
-<img src="/image/english08.jpg">
+<center><img src="/image/english07.jpg">
+<img src="/image/english08.jpg"></center>
 
 （四）Rev. Ian Paisley (North Antrim) (DUP): May I say to the Prime Minister that I fully understand the exasperation that he felt many a day when I visited him? I understand that he was downcast many a day, that he was disappointed, angry and that perhaps he even lost his temper, but I want to say that he treated me with the greatest courtesy. I disagreed with him about many things, but we faced them. I am glad that I can stand here today and say to the Prime Minister that the people of Northern Ireland felt the same way as him—they were angry and cross, lost their tempers and were sad—but we made progress. It is not as great as I would like, but the Unionist people for whom I speak in the House are dedicated to seeing what was started concluded, so that every man and woman in Ulster has the same rights, liberties and opportunities to lead their lives, have their families and have a future.（德高望重的老头）
 
-<img src="/image/english09.jpg">
+<center><img src="/image/english09.jpg"></center>
 
 The Prime Minister begins another colossal task. I hope that what happened in Northern Ireland will be repeated and that, at the end of the day, he can look back and say that it was well worth while.
 
@@ -61,8 +61,8 @@ May I wish the Prime Minister success and fulfilment in whatever he chooses to d
 
 May I thank him for leading us out of 18 years of wilderness life on the Opposition Benches, leading us successfully through three general elections and giving us 10 years of government with more to come? Under him, the party has once again become a natural party of government.（下院之父做总结表扬，布莱尔洗耳恭听）
 
-<img src="/image/english10.jpg">
-<img src="/image/english11.jpg">
+<center><img src="/image/english10.jpg">
+<img src="/image/english11.jpg"></center>
 
 The Prime Minister: I thank my right hon. Friend the Father of the House for that extraordinarily generous remark.
 
@@ -70,5 +70,5 @@ Mr. Speaker, if I may just finish with two brief remarks—first to the House. I
 
 The second thing that I would like to say is about politics and to all my colleagues from different political parties. Some may belittle politics but we who are engaged in it know that it is where people stand tall. Although I know that it has many harsh contentions, it is still the arena that sets the heart beating a little faster. If it is, on occasions, the place of low skulduggery, it is more often the place for the pursuit of noble causes. I wish everyone, friend or foe, well. That is that. The end.（在掌声中收尾，完美的谢幕）
 
-<img src="/image/english12.jpg">
-<img src="/image/english13.jpg">
+<center><img src="/image/english12.jpg">
+<img src="/image/english13.jpg"></center>
