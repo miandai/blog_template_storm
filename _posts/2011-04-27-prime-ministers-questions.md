@@ -20,9 +20,7 @@ tags: [English]
 
 <center><img src="/image/prime-ministers-questions/20110427pmq-01.jpg"></center>
 
-**The Prime Minister:** I am surprised that the right hon. Gentleman says that. A couple of weeks ago he asked me whether I would undertake categorically to ensure that schools had the freedom to own their buildings, employ their own staff and develop their own culture. They will have those powers, and they will be in the education Bill. I thought that he now agreed with me that we do not want to return to selection. 
-
-<!--more-->
+**The Prime Minister:** I am surprised that the right hon. Gentleman says that. A couple of weeks ago he asked me whether I would undertake categorically to ensure that schools had the freedom to own their buildings, employ their own staff and develop their own culture. They will have those powers, and they will be in the education Bill. I thought that he now agreed with me that we do not want to return to selection. <!--more-->
 
 <center><img src="/image/prime-ministers-questions/20110427pmq-02.jpg"><img src="/image/prime-ministers-questions/20110427pmq-03.jpg"></center>
 
