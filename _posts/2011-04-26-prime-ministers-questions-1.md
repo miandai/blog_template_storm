@@ -21,7 +21,7 @@ Mr. Speaker, since this is the last time that this, the saddest of duties, falls
 
 <center><img src="/image/prime-ministers-questions/20110426pmq1-01.jpg"></center>
 
-<!—more—>
+<!—-more—->
 
 Before listing my engagements, because this is the last time that I will be able to do so, may I thank you, Mr. Speaker, for your gentle courtesy and kind forbearance toward me over the years? I have had need of both.（夸奖议长，议长笑了）
 
