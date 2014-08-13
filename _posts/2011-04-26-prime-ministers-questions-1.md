@@ -18,7 +18,7 @@ tags: [English]
 
 Mr. Speaker, since this is the last time that this, the saddest of duties, falls to me, I hope that the House will permit me to say something about our armed forces, and not just about the three individuals who have fallen in the past week. I have never come across people of such sustained dedication, courage and commitment. I am truly sorry about the dangers that they face today in Iraq and Afghanistan. I know that some may think that they face these dangers in vain. I do not, and I never will. I believe that they are fighting for the security of this country and the wider world against people who would destroy our way of life. But whatever view people take of my decisions, I think that there is only one view to take of them: they are the bravest and the best.（再次阐明自己的伊拉克立场）
 
-<!-- more -->
+<!--more-->
 
 <center><img src="/image/prime-ministers-questions/20110426pmq1-01.jpg"></center>
 
