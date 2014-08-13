@@ -22,7 +22,7 @@ tags: [English]
 
 The Home Office has explained that it is moving prisoners at risk of escaping to open prisons. The Home Secretary is apparently happy with that. [Interruption.] Is the Prime Minister?
 
-<!—more—>
+<!-- more -->
 
 <center><img src="/image/prime-ministers-questions/20110426pmq2-03.jpg"><img src="/image/prime-ministers-questions/20110426pmq2-04.jpg"></center>
 
