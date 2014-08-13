@@ -20,7 +20,9 @@ tags: [English]
 
 **Mr. David Cameron (Witney) (Con):** There we have it: no buts, just cuts. I join the Prime Minister in sending our condolences to the families of those soldiers who have given their lives in Iraq and Afghanistan over the past few months. We must make sure that they did not die in vain.
 
-The Home Office has explained that it is moving prisoners at risk of escaping to open prisons. The Home Secretary is apparently happy with that. [Interruption.] Is the Prime Minister?<!--more-->
+The Home Office has explained that it is moving prisoners at risk of escaping to open prisons. The Home Secretary is apparently happy with that. [Interruption.] Is the Prime Minister?
+
+<!--more-->
 
 <center><img src="/image/prime-ministers-questions/20110426pmq2-03.jpg"><img src="/image/prime-ministers-questions/20110426pmq2-04.jpg"></center>
 
