@@ -18,26 +18,6 @@ title: MianDai's Blog
   {% endunless %}  
   <span> 
   </div>
-  
-  .post-content-truncate h1 {
-	font-size: 33.75px;
-	color: #333;
-}
-
-.post-content-truncate h2 {
-	font-size: 26.25px;
-	color: #333;
-}
-
-.post-content-truncate h3 {
-	font-size: 18.75px;
-	color: #333;
-}
-
-.post-content-truncate img {
-	max-width: 400px;
-}
-  
   <div class="post-content-truncate">
   {% if post.content contains "<!-- more -->" %}
     {{ post.content | split:"<!-- more -->" | first % }}
