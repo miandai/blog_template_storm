@@ -14,11 +14,11 @@ tags: [English]
 
 因为今天所介绍的英语句子不是简单的抽象的how are you? where are you?之类的句子，而是有一定的语境的，有一定的背景，不了解这些就无法理解体会这些英文的意思，所以还是简单介绍下时代背景：布莱尔1983年作为最年轻的工党议员进入下院，首次演讲就自称相信社会主义，当然后来为了顺应民意还是对自己的信仰有所修正；布莱尔和布朗做为工党少壮派被称为工党双雄，一般认为布朗加入工党较早，实力雄厚，94年工党领袖史密斯心脏病突发逝世，于是布莱尔和布朗竞争工党领袖，由于布莱尔人气稍旺，为了不因为内斗削弱工党实力，布莱尔和布朗在一家咖啡馆达成一项政治交易：由布莱尔担任工党领袖，布朗则担任未来工党政府的财政大臣，布莱尔当两届首相后，将位置让给布朗。由此为后来的工党内部不稳定埋下了伏笔。97年6月大选工党获得压倒性胜利，布莱尔出任首相，07年6月27日离任，将位置让给早就迫不及待的戈登布朗，这十年里两个人从亲密无间到争吵不休，布莱尔后来曾经形容自己有时像个受气的妇女，可见在政治舞台上风光无限的布莱尔还是时刻承受着不小的党内压力的。而两布的关系也经常遭到媒体和在野党的调侃。工党执政最大的特点是花钱够大方，对医疗系统和教育系统进行了大刀阔斧的改革，做出的成绩获得英国人民的认可，但由于财政支出太过豪放，债台高筑，导致现在的卡梅伦政府不得不缩减开支，提高学费，这也是今年到英国留学人员减少的原因之一。大致人物背景就是这样。
 
+<!--more-->
+
 （一） **The Prime Minister (Mr. Tony Blair):** First of all, I know that the whole House will want to join me in sending our deep condolences to the family and friends of Major Paul Harding of the 1st Battalion the Rifles, and Corporal John Rigby of the 4th Battalion the Rifles, both of whom died in Iraq; and Drummer Thomas Wright, of the 1st Battalion the Worcestershire and Sherwood Foresters Regiment. All three of them were outstanding soldiers and will be deeply missed.（自伊拉克战争以来，每周都要做这样的哀悼，习惯就好）
 
 Mr. Speaker, since this is the last time that this, the saddest of duties, falls to me, I hope that the House will permit me to say something about our armed forces, and not just about the three individuals who have fallen in the past week. I have never come across people of such sustained dedication, courage and commitment. I am truly sorry about the dangers that they face today in Iraq and Afghanistan. I know that some may think that they face these dangers in vain. I do not, and I never will. I believe that they are fighting for the security of this country and the wider world against people who would destroy our way of life. But whatever view people take of my decisions, I think that there is only one view to take of them: they are the bravest and the best.（再次阐明自己的伊拉克立场）
-
-<!--more-->
 
 <center><img src="/image/prime-ministers-questions/20110426pmq1-01.jpg"></center>
 
