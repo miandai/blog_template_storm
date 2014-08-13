@@ -4,6 +4,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 paginate: 5
+excerpt_link: "Read on →"
 
 title : 叶儿个金儿个铭儿个
 tagline: 叶儿个金儿个铭儿个
