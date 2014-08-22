@@ -19,7 +19,7 @@ title: MianDai's Blog
   <span>
   </div>
   <div class="archive">
-    {{ post.content }}
+	{{ post.content  || split:'<!--more-->' | first }}
   </div>
   <hr />
   {% endfor %}
