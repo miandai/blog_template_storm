@@ -21,6 +21,8 @@ title: MianDai's Blog
   <div class="archive">
 	{{ post.content  || split:'<!--more-->' | first }}
   </div>
+  <!-- readmore按钮 -->
+  <p class="preadmore"><a href="{{ BASE_PATH }}{{ post.url }}" alt="Read More" class="readmore"><span>&#10149;</span>阅读全文</a></p>
   <hr />
   {% endfor %}
 
