@@ -19,7 +19,8 @@ title: MianDai's Blog
   <span>
   </div>
   <div class="archive">
-  {% if post.excerpt %} {{ post.excerpt | read_more: post.url }} {% endif %}
+    {{ post.content | truncatehtml: 257 }}
+<p> <a href="{{ post.url }}/#more" class="more-link"><span class="readmore">阅读全文 &raquo; </span></a></p>
   </div>
   <hr />
   {% endfor %}
