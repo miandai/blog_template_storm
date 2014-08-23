@@ -8,8 +8,6 @@ tags: [English]
 ---
 {% include codepiano/setup %}
 
-
-
 时间：2005年1月19日下午­
 
 地点：英国议会下院­
