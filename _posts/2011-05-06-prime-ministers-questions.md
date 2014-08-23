@@ -22,6 +22,8 @@ tags: [English]
 
 <center><img src="/image/prime-ministers-questions/20110506pmq-01.jpg"></center>
 
+<!--more-->
+
 **The Prime Minister:** We have of course honoured that pledge. In respect of any pledges that we make at the next election, the right hon. and learned Gentleman will have to wait for our manifesto. Of course, there will be a Budget in the meantime. I would point out to him that we have not raised the top rate of tax and that we have actually cut the basic rate.
 
 <center><img src="/image/prime-ministers-questions/20110506pmq-02.jpg"></center>
