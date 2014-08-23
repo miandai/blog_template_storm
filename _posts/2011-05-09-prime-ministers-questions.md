@@ -16,19 +16,19 @@ tags: [English]
 
 事件：戴维·卡梅伦当选保守党领袖后第一次在下院Prime Minister's Questions­中遭遇首相托尼·布莱尔
 
-Jeff Ennis (Barnsley, East and Mexborough) (Lab): Can my right hon. Friend tell me how he will deal with a young, handsome, intelligent, charismatic politician, such as myself—[Laughter.]—and how Parliament can better engage ordinary people in the political process?
+**Jeff Ennis (Barnsley, East and Mexborough) (Lab):** Can my right hon. Friend tell me how he will deal with a young, handsome, intelligent, charismatic politician, such as myself—[Laughter.]—and how Parliament can better engage ordinary people in the political process?
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-01.jpg"></center>
 
 <!--more-->
 
-The Prime Minister: I have always thought that my hon. Friend was a model to follow, although I have never quite managed it myself.
+**The Prime Minister:** I have always thought that my hon. Friend was a model to follow, although I have never quite managed it myself.
 
 The best way to make progress is to continue with the strong economic growth and the investment in our public services that we have seen across the whole of the public services. Every single indicator has improved since 1997. 
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-02.jpg"></center>
 
-Mr. David Cameron (Witney) (Con): The first issue that the Prime Minister and I are going to have to work together on is getting the good bits of his education reforms through the House of Commons and into law. [Interruption.] That is the problem with these exchanges—the Labour Chief Whip shouting like a child. [Interruption.] Is the right hon. Lady finished?
+**Mr. David Cameron (Witney) (Con):** The first issue that the Prime Minister and I are going to have to work together on is getting the good bits of his education reforms through the House of Commons and into law. [Interruption.] That is the problem with these exchanges—the Labour Chief Whip shouting like a child. [Interruption.] Is the right hon. Lady finished?
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-03.jpg"><img src="/image/prime-ministers-questions/20110509pmq-04.jpg"></center>
 
@@ -36,15 +36,15 @@ The Prime Minister and I both agree that schools with greater freedom produce th
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-05.jpg"><img src="/image/prime-ministers-questions/20110509pmq-06.jpg"></center>
 
-The Prime Minister: Yes. It is important that we give schools the freedoms that they need. I am delighted to hear that the hon. Gentleman supports these reforms. I assume, therefore, that the Conservative party will be voting for them.
+**The Prime Minister:** Yes. It is important that we give schools the freedoms that they need. I am delighted to hear that the hon. Gentleman supports these reforms. I assume, therefore, that the Conservative party will be voting for them.
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-07.jpg"><img src="/image/prime-ministers-questions/20110509pmq-08.jpg"></center>
 
-Mr. Cameron: Absolutely. [Interruption.] With our support—[Interruption.] With our support, the Prime Minister knows that there is no danger of losing these education reforms in a parliamentary vote. So he can afford to be as bold as he wants to be. That is when he is at his best—or so I am told. Can we agree that that means trust schools owning their own buildings and land, employing their own staff, setting pay locally, developing their own culture and ethos and controlling their own admissions?
+**Mr. Cameron:** Absolutely. [Interruption.] With our support—[Interruption.] With our support, the Prime Minister knows that there is no danger of losing these education reforms in a parliamentary vote. So he can afford to be as bold as he wants to be. That is when he is at his best—or so I am told. Can we agree that that means trust schools owning their own buildings and land, employing their own staff, setting pay locally, developing their own culture and ethos and controlling their own admissions?
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-09.jpg"></center>
 
-The Prime Minister: Of course it means all those powers that currently are available to foundation and voluntary aided schools being extended to other schools as well. That is the purpose of the proposals. Incidentally, before I answered any questions, I should have welcomed the hon. Gentleman to his new position and congratulated him on winning the Conservative leadership election.
+**The Prime Minister:** Of course it means all those powers that currently are available to foundation and voluntary aided schools being extended to other schools as well. That is the purpose of the proposals. Incidentally, before I answered any questions, I should have welcomed the hon. Gentleman to his new position and congratulated him on winning the Conservative leadership election.
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-10.jpg"><img src="/image/prime-ministers-questions/20110509pmq-11.jpg"></center>
 
@@ -52,7 +52,7 @@ But can I tell him where I feel that we may—and I am sorry to say this—have 
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-12.jpg"></center>
 
-Mr. Cameron: I want schools to control their own admissions. That is what is in the White Paper, and let us see that it turns into the Bill. [Interruption.]
+**Mr. Cameron:** I want schools to control their own admissions. That is what is in the White Paper, and let us see that it turns into the Bill. [Interruption.]
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-13.jpg"><img src="/image/prime-ministers-questions/20110509pmq-14.jpg"></center>
 
@@ -64,7 +64,7 @@ Education is one of the public services in desperate need of reform, so does he 
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-17.jpg"><img src="/image/prime-ministers-questions/20110509pmq-18.jpg"></center>
 
-The Prime Minister: I certainly can say, as I have said before, that it is important that all schools get these freedoms. However, it is obvious that we disagree on the issue of admissions. I think that if schools are free to bring back selection at the age of 11, that would be regressive for our country. So I am afraid that in this grand new consensus we have to disagree on that point.
+**The Prime Minister:** I certainly can say, as I have said before, that it is important that all schools get these freedoms. However, it is obvious that we disagree on the issue of admissions. I think that if schools are free to bring back selection at the age of 11, that would be regressive for our country. So I am afraid that in this grand new consensus we have to disagree on that point.
 
 <center><img src="/image/prime-ministers-questions/20110509pmq-19.jpg"><img src="/image/prime-ministers-questions/20110509pmq-20.jpg"></center>
 

@@ -16,35 +16,35 @@ tags: [English]
 
 事件：托尼·布莱尔VS迈克尔·霍华德
 
-Mr. Kevin McNamara (Hull, North) (Lab): At the weekend, my right hon. Friend welcomed statements by the leaders of Sinn Fein that they would help to bring Mr. McCartney's murderers to justice. Does he share the horror and contempt that the rest of the community in these islands feel at statements by the IRA yesterday that it was prepared to assassinate the murderers of Mr. McCartney but not prepared to bring them to justice? When my right hon. Friend next meets the leaders of Provisional Sinn Fein or has any contact with them through No. 10, will he clearly bring it to their attention that there is nowhere in these islands where we can have parallel police forces, kangaroo courts or assassinations of people whom we do not particularly like?
+**Mr. Kevin McNamara (Hull, North) (Lab):** At the weekend, my right hon. Friend welcomed statements by the leaders of Sinn Fein that they would help to bring Mr. McCartney's murderers to justice. Does he share the horror and contempt that the rest of the community in these islands feel at statements by the IRA yesterday that it was prepared to assassinate the murderers of Mr. McCartney but not prepared to bring them to justice? When my right hon. Friend next meets the leaders of Provisional Sinn Fein or has any contact with them through No. 10, will he clearly bring it to their attention that there is nowhere in these islands where we can have parallel police forces, kangaroo courts or assassinations of people whom we do not particularly like?
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-01.jpg"></center>
 
 <!--more-->
 
-The Prime Minister: I agree totally with my hon. Friend. From someone who has always been prepared to speak up for the nationalist community in Northern Ireland, his words are especially telling. I make it absolutely clear that the IRA's statement yesterday defies description. It was extraordinary and cannot be justified in any shape or form. There is no way that we can make any progress in Northern Ireland that includes Sinn Fein unless there is a complete end to violence of whatever kind.
+**The Prime Minister:** I agree totally with my hon. Friend. From someone who has always been prepared to speak up for the nationalist community in Northern Ireland, his words are especially telling. I make it absolutely clear that the IRA's statement yesterday defies description. It was extraordinary and cannot be justified in any shape or form. There is no way that we can make any progress in Northern Ireland that includes Sinn Fein unless there is a complete end to violence of whatever kind.
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-02.jpg"><img src="/image/prime-ministers-questions/20110507pmq-03.jpg"></center>
 
-Mr. Michael Howard (Folkestone and Hythe) (Con): Today, the House will debate the Prevention of Terrorism Bill. It is important that we all understand its scope. At the weekend, the Prime Minister said that its provisions could be used against protesters against the G8 meeting in Scotland. Did he mean that?
+**Mr. Michael Howard (Folkestone and Hythe) (Con):** Today, the House will debate the Prevention of Terrorism Bill. It is important that we all understand its scope. At the weekend, the Prime Minister said that its provisions could be used against protesters against the G8 meeting in Scotland. Did he mean that?
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-04.jpg"></center>
 
-The Prime Minister: I have read that I am supposed to have said that, but I confess that I have absolutely no recollection of saying it. There are people who want to protest against the G8 meeting—incidentally, protests happen on a very wide range of issues, and I obviously see many of them on my travels around the place—but the control orders are specifically designed to defeat terrorism. For people who want to come and protest in this country, there is a long-standing democratic right and they are perfectly entitled to do so.
+**The Prime Minister:** I have read that I am supposed to have said that, but I confess that I have absolutely no recollection of saying it. There are people who want to protest against the G8 meeting—incidentally, protests happen on a very wide range of issues, and I obviously see many of them on my travels around the place—but the control orders are specifically designed to defeat terrorism. For people who want to come and protest in this country, there is a long-standing democratic right and they are perfectly entitled to do so.
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-05.jpg"></center>
 
-Mr. Howard: I have the newspaper report here. The Prime Minister was asked—[Interruption.]
+**Mr. Howard:** I have the newspaper report here. The Prime Minister was asked—[Interruption.]
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-06.jpg"><img src="/image/prime-ministers-questions/20110507pmq-07.jpg"></center>
 
-Mr. Speaker: Order.
+**Mr. Speaker:** Order.
 
-Mr. Howard: The Prime Minister was asked—[Interruption.]
+**Mr. Howard:** The Prime Minister was asked—[Interruption.]
 
-Mr. Speaker: Order. I want silence when the right hon. and learned Gentleman is addressing the House.
+**Mr. Speaker:** Order. I want silence when the right hon. and learned Gentleman is addressing the House.
 
-Mr. Howard: The Prime Minister was asked whether the Home Secretary would use the new anti-terror laws against G8 protesters, and he replied,
+**Mr. Howard:** The Prime Minister was asked whether the Home Secretary would use the new anti-terror laws against G8 protesters, and he replied,
 
     "I couldn't rule it out."
 
@@ -52,7 +52,7 @@ So what on earth was he on about?
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-08.jpg"></center>
 
-The Prime Minister: I will have to check whatever transcript there is. Let me make it absolutely clear that, of course, these terror laws are not to be used against protesters. They are to be used against people suspected of terrorism.
+**The Prime Minister:** I will have to check whatever transcript there is. Let me make it absolutely clear that, of course, these terror laws are not to be used against protesters. They are to be used against people suspected of terrorism.
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-09.jpg"></center>
 
@@ -60,11 +60,11 @@ Let us get back to the central question at the heart of the terrorism legislatio
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-10.jpg"><img src="/image/prime-ministers-questions/20110507pmq-11.jpg"></center>
 
-Mr. Howard: Let us see where we are on the Bill. First, the Government said that there would be no concessions at all. Then they conceded that control orders on house arrests should be made by a judge. This week, they said that they would not extend that to the other control orders. Today, they have backtracked on that, too. Given the scale of the Prime Minister's defeat in the House of Lords yesterday, will he now reconsider his position on the sunset clause, so that Parliament can have a proper opportunity to consider the best response to the terrorist threat?
+**Mr. Howard:** Let us see where we are on the Bill. First, the Government said that there would be no concessions at all. Then they conceded that control orders on house arrests should be made by a judge. This week, they said that they would not extend that to the other control orders. Today, they have backtracked on that, too. Given the scale of the Prime Minister's defeat in the House of Lords yesterday, will he now reconsider his position on the sunset clause, so that Parliament can have a proper opportunity to consider the best response to the terrorist threat?
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-12.jpg"></center>
 
-The Prime Minister: No, I will not do that. It is correct. I think that I said in the House, and repeated at my monthly press conference, that judicial scrutiny was not the key point of principle. We have made a concession on that, and I hope that that will satisfy people. In the end, as I explained to the House, the question was whether we were able to ensure that the control orders could be used effectively by the police and security services. We have found a way of doing that. If necessary, the Home Secretary can apply the orders himself, in exceptional cases, otherwise, it has to go to the judge. I am afraid that we are not prepared to accept either the amendment on the sunset clause or the other amendment voted for by the House of Lords, and which the Conservatives in the House of Lords backed, to change the burden of proof. That would not be wise; it would be contrary to the strong advice given to us by our security services and our police, and I am simply not prepared to do it.
+**The Prime Minister:** No, I will not do that. It is correct. I think that I said in the House, and repeated at my monthly press conference, that judicial scrutiny was not the key point of principle. We have made a concession on that, and I hope that that will satisfy people. In the end, as I explained to the House, the question was whether we were able to ensure that the control orders could be used effectively by the police and security services. We have found a way of doing that. If necessary, the Home Secretary can apply the orders himself, in exceptional cases, otherwise, it has to go to the judge. I am afraid that we are not prepared to accept either the amendment on the sunset clause or the other amendment voted for by the House of Lords, and which the Conservatives in the House of Lords backed, to change the burden of proof. That would not be wise; it would be contrary to the strong advice given to us by our security services and our police, and I am simply not prepared to do it.
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-13.jpg"></center>
 
@@ -72,11 +72,11 @@ It is perfectly obvious that this country faces a terrorist threat the like of w
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-14.jpg"></center>
 
-Mr. Howard: We all accept that there is a terrorist threat. The question is: what is the best way of dealing with it? We have just heard from the Prime Minister that what was a point of principle for him last week is no longer a point of principle for him this week. The question that I asked him was about the sunset clause, and he did not answer it. So what I want to know is: is he seriously saying that he would prefer to have no Bill at all than to have a Bill that would last for eight months so that Parliament could have a proper opportunity to consider the best response to the terrorist threat?
+**Mr. Howard:** We all accept that there is a terrorist threat. The question is: what is the best way of dealing with it? We have just heard from the Prime Minister that what was a point of principle for him last week is no longer a point of principle for him this week. The question that I asked him was about the sunset clause, and he did not answer it. So what I want to know is: is he seriously saying that he would prefer to have no Bill at all than to have a Bill that would last for eight months so that Parliament could have a proper opportunity to consider the best response to the terrorist threat?
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-15.jpg"><img src="/image/prime-ministers-questions/20110507pmq-16.jpg"></center>
 
-The Prime Minister: First, let me correct the right hon. and learned Gentleman on one point. I thought that I had said the opposite—that the judicial scrutiny issue was not the point of principle. The point of principle is on the control orders and the burden of proof.
+**The Prime Minister:** First, let me correct the right hon. and learned Gentleman on one point. I thought that I had said the opposite—that the judicial scrutiny issue was not the point of principle. The point of principle is on the control orders and the burden of proof.
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-17.jpg"></center>
 
@@ -92,7 +92,7 @@ In the House of Lords yesterday, the Conservative Front Bench voted for a change
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-21.jpg"><img src="/image/prime-ministers-questions/20110507pmq-22.jpg"></center>
 
-Mr. Howard: If the Prime Minister thinks that it is only the Conservative Front Bench in the House of Lords that is opposed to the Bill, he is living on another planet. I did take action against terrorism when I was Home Secretary, and when we brought the prevention of terrorism legislation to this House, he opposed it. He opposed it even when the terrorist bombs of the IRA were raining down on Heathrow airport. We will therefore take no lessons from him about the need to be tough on terrorism.
+**Mr. Howard:** If the Prime Minister thinks that it is only the Conservative Front Bench in the House of Lords that is opposed to the Bill, he is living on another planet. I did take action against terrorism when I was Home Secretary, and when we brought the prevention of terrorism legislation to this House, he opposed it. He opposed it even when the terrorist bombs of the IRA were raining down on Heathrow airport. We will therefore take no lessons from him about the need to be tough on terrorism.
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-23.jpg"></center>
 
@@ -100,7 +100,7 @@ Is not this the position? We offered to extend the current powers of detention. 
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-24.jpg"></center>
 
-The Prime Minister: Where on earth is the logic in the right hon. and learned Gentleman's position, which is that we should put back in place part 4 of the previous legislation which was struck down by the House of Lords?
+**The Prime Minister:** Where on earth is the logic in the right hon. and learned Gentleman's position, which is that we should put back in place part 4 of the previous legislation which was struck down by the House of Lords?
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-25.jpg"></center>
 
@@ -112,7 +112,7 @@ We have done our level best to meet reasonable concerns. We are not going to mee
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-27.jpg"><img src="/image/prime-ministers-questions/20110507pmq-28.jpg"></center>
 
-Mr. Howard: The Government said a month ago that the existing Act
+**Mr. Howard:** The Government said a month ago that the existing Act
 
     "remains . . . valid, enforceable and effective"
 
@@ -124,6 +124,6 @@ That is what the Government said about the existing powers one month ago. We hav
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-29.jpg"><img src="/image/prime-ministers-questions/20110507pmq-30.jpg"></center>
 
-The Prime Minister: We will have this debate here, and we will have this debate in the country, and we will see where the shame lies; but in my judgment the shame will lie with the Conservatives, who, faced with legislation to prevent terrorism—faced with legislation on which we were advised by our police and security services—are going to vote against it. If they want to vote against it, let them: we will be content ultimately to have the verdict of the country on it.
+**The Prime Minister:** We will have this debate here, and we will have this debate in the country, and we will see where the shame lies; but in my judgment the shame will lie with the Conservatives, who, faced with legislation to prevent terrorism—faced with legislation on which we were advised by our police and security services—are going to vote against it. If they want to vote against it, let them: we will be content ultimately to have the verdict of the country on it.
 
 <center><img src="/image/prime-ministers-questions/20110507pmq-31.jpg"><img src="/image/prime-ministers-questions/20110507pmq-32.jpg"></center>
