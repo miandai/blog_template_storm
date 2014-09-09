@@ -3,8 +3,8 @@ layout: post
 keywords: blog
 description: blog
 title: "医疗基本知识"
-categories: [English]
-tags: [English]
+categories: [Medical]
+tags: [Medical]
 ---
 {% include codepiano/setup %}
 
