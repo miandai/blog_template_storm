@@ -33,3 +33,16 @@ Discharge：出院
 Cancel：办理了住院手续，但没住院时就取消了
 OutPatient：门诊
 Cancel：没去
+
+药物用法拉丁文缩小词
+ivgtt：静脉滴注
+po：口服
+qd：每日一次
+Bid：每日二次
+tid：每日三次
+Qid：每日四次
+Q6h：每6小时一次
+12mn：午12小时
+12n：24小时
+……
+
