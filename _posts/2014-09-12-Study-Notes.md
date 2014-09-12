@@ -3,8 +3,8 @@ layout: post
 keywords: blog
 description: blog
 title: "学习笔记"
-categories: [Medical]
-tags: [Medical]
+categories: [C#]
+tags: [C#]
 ---
 {% include codepiano/setup %}
 
