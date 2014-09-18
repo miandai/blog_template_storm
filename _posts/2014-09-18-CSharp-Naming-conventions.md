@@ -19,6 +19,8 @@ public class DataGrid			//创建一个公共类
 }
 {% endhighlight %}
 
+<!--more-->
+
 2、命名局部变量和方法的参数，第一个单词的第一个字母小写。[Camel]
 
 {% highlight ruby %}
