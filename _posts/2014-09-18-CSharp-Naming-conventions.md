@@ -3,8 +3,8 @@ layout: post
 keywords: blog
 description: blog
 title: "C#命名规范"
-categories: [C#]
-tags: [C#]
+categories: [.net]
+tags: [.net]
 ---
 {% include codepiano/setup %}
 
@@ -19,9 +19,9 @@ public class DataGrid			//创建一个公共类
 }
 {% endhighlight %}
 
-<!--more-->
-
 2、命名局部变量和方法的参数，第一单词的第一个字母小写。[Camel]
+
+<!--more-->
 
 {% highlight ruby %}
 string strUserName;											//声明一个字符串变量strUserName
