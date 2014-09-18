@@ -21,17 +21,15 @@ public class DataGrid			//创建一个公共类
 
 2、命名局部变量和方法的参数，第一单词的第一个字母小写。[Camel]
 
-<!--more-->
-
 {% highlight ruby %}
-string strUserName;											//声明一个字符串变量strUserName
+string strUserName;		//声明一个字符串变量strUserName
 public void AddUser(string strUserId,byte[] byPassword)	//创建一个具有两个参数的公共方法
 {% endhighlight %}
 
 3、所有的成员变量前加前缀“_”。
 
 {% highlight ruby %}
-public class DataBase					//创建一个公共类
+public class DataBase	//创建一个公共类
 {
 	private string _connectionString;	//声明一个私有成员变量
 }
@@ -94,16 +92,16 @@ public string GetTitle()
 
 {% highlight ruby %}
 
-namespace His_WestChina						//用有意义的名字命名命名空间，如公司名、产品名。
+namespace His_WestChina	//用有意义的名字命名命名空间，如公司名、产品名。
 {
-	public class DataBase					//类命名，第一个字母必须大写，并且后面的连接词的第一个字母均为大写
+	public class DataBase //类命名，第一个字母必须大写，并且后面的连接词的第一个字母均为大写
 	{
 		public string _connectionString;	//成员变量前加前缀“_”
 	
 		//所有的成员变量声明在类的顶端，用一个换行把它和方法分开。
 		public void AddUser(string strUserId,byte[] byPassword)	//方法命名第一个字母必须大写，后面的连接词的第一个字母均为大写；方法的参数，第一单词的第一个字母小写；方法的命名，一般将其命名为动宾短语
 		{
-			string strUserName;									//局部变量，第一个单次的第一个字母小写
+			string strUserName;	//局部变量，第一个单次的第一个字母小写
 		}
 	}
 }
