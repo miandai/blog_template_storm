@@ -46,3 +46,43 @@ SqlClientFactory.Instance.CreateConnection().Open();
 
 CreateConnection()返回DbConnection
 
+调用示例：
+
+SqlDataReader myDataReader = (SqlDataReader)(DbHelper.ExecuteReader("select * from ypxm"));
+
+
+DbHelper类的成员函数：
+
+{% highlight ruby %}
+public DataBaseType CurrentDataBaseType
+public static string GetDBNow()
+public static string SqlSafe(string value)
+public static string PlusSign(params string[] values)
+public static string GetParameter(string parameter)
+public static DbParameter MakeInParam(string targetFiled, object targetValue)
+public static DbParameter[] MakeParameters(string targetFiled, object targetValue)
+public static DbParameter[] MakeParameters(string[] targetFileds, Object[] targetValues)
+public static DbParameter MakeParam(string paramName, DbType DbType, Int32 size, ParameterDirection Direction,object Value)
+public static int ExecuteNonQuery(string commandText)
+public static int ExecuteNonQuery(string commandText, DbParameter[] dbParameters)
+public static int ExecuteNonQuery(CommandType commandType, string commandText, DbParameter[] dbParameters)
+public static object ExecuteScalar(string commandText)
+public static object ExecuteScalar(string commandText, DbParameter[] dbParameters)
+public static object ExecuteScalar(CommandType commandType, string commandText, DbParameter[] dbParameters)
+public static IDataReader ExecuteReader(string commandText)
+public static IDataReader ExecuteReader(string commandText, DbParameter[] dbParameters)
+public IDataReader ExecuteReader(string commandText, List<DbParameter> dbParameters)
+public static IDataReader ExecuteReader(CommandType commandType, string commandText, DbParameter[] dbParameters)
+public static IDataReader ExecuteReader(CommandType commandType, string commandText,
+public static DataTable Fill(string commandText)
+public static DataTable Fill(DataTable dataTable, string commandText)
+public static DataTable Fill(string commandText, DbParameter[] dbParameters)
+public static DataTable Fill(DataTable dataTable, string commandText, DbParameter[] dbParameters)
+public static DataTable Fill(DataTable dataTable, CommandType commandType, string commandText, DbParameter[] dbParameters)
+public static DataSet Fill(DataSet dataSet, string commandText, string tableName)
+public static DataSet Fill(DataSet dataSet, string commandText, string tableName, DbParameter[] dbParameters)
+public static DataSet Fill(DataSet dataSet, CommandType commandType, string commandText, string tableName, DbParameter[] dbParameters)
+public static int ExecuteProcedure(string procedureName)
+public static int ExecuteProcedure(string procedureName, DbParameter[] dbParameters)
+public static DataTable ExecuteProcedureForDataTable(string procedureName, string tableName, DbParameter[] dbParameters)
+{% endhighlight %}
