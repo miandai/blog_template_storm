@@ -16,9 +16,7 @@ DbHelperFactory.cs：这个是个数据库访问工厂，就是负责调用数�
 
 <!--more-->
 
-抽象类BaseDbHelper中使用的是DbConnection实例，我们平时经常用的是ADO.NET的SqlConnection，该类继承自DbConnection接口。
-
-
+抽象类BaseDbHelper中使用的是DbConnection实例，我们平时经常用的是ADO.NET的SqlConnection，该类继承自DbConnection接口。由SqlHelper.cs中SqlBulkCopyData函数中conn = (SqlConnection)GetDbConnection()可知，其实程序中调用的还是SqlConnection。
 
 {% highlight ruby %}
 namespace System.Data.Common
@@ -32,4 +30,19 @@ namespace System.Data.Common
 {% endhighlight %}
 
 DbConnection继承了IDBConnection接口。
+
+Connection打开调用过程：
+
+DbHelper.cs：ExecuteReader————>BaseDbHelp.cs：Open————>DbHelperFactory.cs：IDbHelper dbHelper = (IDbHelper)Assembly.Load(DbHelperAssmely).CreateInstance(DbHelperClass, true);
+
+创建了DataAccessTest.DbProvider.SqlHelper实例返回给IDbHelper dbHelper
+
+调用SqlHelper：GetInstance获得SqlClientFactory.Instance;
+
+DbProviderFactory _dbProviderFactory=SqlClientFactory.Instance;
+
+最终相当于：
+SqlClientFactory.Instance.CreateConnection().Open();
+
+CreateConnection()返回DbConnection
 
