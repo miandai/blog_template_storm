@@ -106,3 +106,6 @@ string sql = "select * from tb where t1='" + nn + "'"; //"select * from tb where
 "select * from tb where t1=@N";
 cmd.Parameters.Add(new SqlParameter(@N,aa or 1=1)); // select * from tb where t1='aa' or 1=1'
 {% endhighlight %}
+
+除了存在安全性问题，该方法还无法解决二进制流的更新，如图片文件，请参考：http://www.cnblogs.com/pioneerlc/archive/2011/05/21/2053052.html
+.NET防SQL注入方法：http://www.cnblogs.com/smhy8187/articles/824071.html
