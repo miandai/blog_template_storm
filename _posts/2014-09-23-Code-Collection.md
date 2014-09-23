@@ -14,6 +14,8 @@ list.AddRange(new DbParameter[]{new SqlParameter("@commonname", "注射用青霉
 myDataReader = (SqlDataReader)(DbHelper.ExecuteReader(CommandType.Text,sql, list));
 {% endhighlight %}
 
+<!--more-->
+
 {% highlight ruby %}
 using System;
 using System.Data;
