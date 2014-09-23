@@ -86,3 +86,23 @@ public static int ExecuteProcedure(string procedureName)
 public static int ExecuteProcedure(string procedureName, DbParameter[] dbParameters)
 public static DataTable ExecuteProcedureForDataTable(string procedureName, string tableName, DbParameter[] dbParameters)
 {% endhighlight %}
+
+如果不采用SqlParameter，那么当输入的Sql语句出现歧义时，如字符串中含有单引号，程序就会发生错误，并且他人可以轻易地通过拼接Sql语句来进行注入攻击。我们常规的sql操作语句当中一般会是这样
+{% highlight ruby %}
+string StuName=TextBox1.Text;
+string str="select * from StudentInfo where stuName='"+StuName+"'";
+{% endhighlight %}
+StuId是别人来输入的。假设我输入的格式为StuName是 ' and stuid='12
+那么连起来 str=select * from StudentInfo where stuName='' and stuid='12'
+
+再如：
+{% highlight ruby %}
+//未采用SqlParameter
+stirng nn="aa or 1=1"; //加" or 1=1" 还算好的，如果加上";delete from tb"就可能把数据库表删除了
+string sql = "select * from tb where t1='" + nn + "'"; //"select * from tb where t1='aa' or 1=1"，这就是典型的登录注入
+
+
+//采用SqlParameter
+"select * from tb where t1=@N";
+cmd.Parameters.Add(new SqlParameter(@N,aa or 1=1)); // select * from tb where t1='aa' or 1=1'
+{% endhighlight %}
