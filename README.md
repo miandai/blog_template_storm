@@ -1,4 +1,4 @@
-## MianDai的博客
+## MianDai的[博客](http://miandai.github.io/)
 
 simple is beautiful
 
