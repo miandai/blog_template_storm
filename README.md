@@ -10,6 +10,3 @@ Web新手
 
 * Github: [https://github.com/miandai](https://github.com/miandai)
 
-=======
-miandai.github.io
-=================
