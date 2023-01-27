@@ -1,3 +1,15 @@
+---
+layout: post
+keywords: blog
+description: blog
+title: "Numpy 练习题 "
+categories: [Data Analysis]
+tags: [Data Analysis]
+---
+{% include codepiano/setup %}
+
+
+
 **1. 使用循环和向量化两种不同的方法来计算 100 以内的质数之和。**
 
 先定义个判断质数的函数。ps：纯手工打造，原生态，哈哈。
@@ -15,7 +27,11 @@ def checkprime(x):
     return prime;
 ```
 
+
+<!--more-->
+
 使用循环方法来计算 100 以内的质数之和。
+
 
 
 ```python

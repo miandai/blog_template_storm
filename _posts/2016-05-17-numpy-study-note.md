@@ -1,3 +1,13 @@
+---
+layout: post
+keywords: blog
+description: blog
+title: "Numpy 学习笔记"
+categories: [Data Analysis]
+tags: [Data Analysis]
+---
+{% include codepiano/setup %}
+
 ## Numpy 基础
 
 - **Numpy 是 Python 科学计算的基础，学会如何创建、读取、更改向量数据。**
@@ -12,7 +22,7 @@ print(np.array([2,3,4])) # 可以从列表转换而来，np.array 会尝试为�
 
     [2 3 4]
 
-
+<!--more-->
 
 ```python
 print(np.zeros( (3,4) , dtype=np.int32))  # zeros 可以创建指定长度或形状的全 0 数组
