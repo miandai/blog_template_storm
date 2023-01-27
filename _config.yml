@@ -82,7 +82,7 @@ codepiano :
   comments :
     provider : disqus
     disqus :
-      short_name : miandaiblog
+      short_name : miandai
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
