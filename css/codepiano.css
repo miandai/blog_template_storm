@@ -42,7 +42,7 @@ html, body, div.wrapper {
 
 /* 段落样式 */
 .paragraph {
-  font-size: 15px;
+  font-size: 30px;
   text-indent: 2em;
 }
 
@@ -63,7 +63,7 @@ html, body, div.wrapper {
 }
 
 blockquote {
-  font-size: 15px;
+  font-size: 30px;
   background-color: #002B36;
   color:#93A1A1;
 }
