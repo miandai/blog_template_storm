@@ -22,7 +22,7 @@ print(np.zeros( (3,4) , dtype=np.int32))  # zeros 可以创建指定长度或形
      [0 0 0 0]
      [0 0 0 0]]
 
-
+<!--more-->
 
 ```python
 print(np.ones( (2,3,4), dtype=np.float ))  # ones 可以创建指定长度或形状的全 1 数组，可以指定 dtype
