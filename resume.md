@@ -8,9 +8,9 @@ group: static
 
 {% highlight ruby %}
 name = 'Storm'
-real_name = '张奇'
+real_name = 'dm'
 
-company = '薄荷信息科技'
+company = 'alibaba'
 title = '软件工程师'
 skills = 'android, java, ruby, git, sql'
 
