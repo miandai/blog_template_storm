@@ -101,6 +101,13 @@ codepiano :
   sharing :
     provider : false
     
+gitalk:
+  enable: true
+  owner: miandai
+  repo: miandai.github.io
+  clientID: 5e5a03c760d04a49061f
+  clientSecret: 9cc5d41a910520d6aa82e9165b36fc3ce1be350a
+  admin: miandai
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
   #
