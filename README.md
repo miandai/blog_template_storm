@@ -4,7 +4,7 @@ simple is beautiful
 
 ## 关于我
 
-Web新手
+算法工程师
 
 ## 联系我
 
