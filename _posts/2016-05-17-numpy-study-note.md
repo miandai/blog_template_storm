@@ -3,8 +3,8 @@ layout: post
 keywords: blog
 description: blog
 title: "Numpy 学习笔记"
-categories: [Data Analysis]
-tags: [Data Analysis]
+categories: [Data_Analysis]
+tags: [Data_Analysis]
 ---
 {% include codepiano/setup %}
 
