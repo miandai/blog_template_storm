@@ -2,7 +2,7 @@
 layout: post
 keywords: blog
 description: blog
-title: "Pandas 学习笔记"
+title: "Pandas 练习题"
 categories: [Data_Analysis]
 tags: [Data_Analysis]
 ---

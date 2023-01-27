@@ -2,7 +2,7 @@
 layout: post
 keywords: blog
 description: blog
-title: "概率与统计分析学习笔记"
+title: "概率与统计分析练习题"
 categories: [Data_Analysis]
 tags: [Data_Analysis]
 ---
@@ -253,7 +253,7 @@ rrhist = sc.retRate.hist();
 ```
 
 
-![](http://images2015.cnblogs.com/blog/586070/201606/586070-20160607232439152-1790601964.png)
+![](/image/data-analysis/586070-20160607232439152-1790601964.png)
 
 
 
@@ -381,7 +381,7 @@ fig.tight_layout();
       UserWarning)
 
 
-![](http://images2015.cnblogs.com/blog/586070/201606/586070-20160607232456277-1680901126.png)
+![](/image/data-analysis/586070-20160607232456277-1680901126.png)
 
 
 
@@ -494,7 +494,7 @@ sc.logClose.hist();
 ```
 
 
-![](http://images2015.cnblogs.com/blog/586070/201606/586070-20160607232608340-1607292757.png)
+![](/image/data-analysis/586070-20160607232608340-1607292757.png)
 
 
 
@@ -547,7 +547,7 @@ fig.tight_layout()
 ```
 
 
-![](http://images2015.cnblogs.com/blog/586070/201606/586070-20160607232622808-493795401.png)
+![](/image/data-analysis/586070-20160607232622808-493795401.png)
 
 
 
