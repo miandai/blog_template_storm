@@ -2,7 +2,7 @@
 layout: post
 keywords: blog
 description: blog
-title: "最优化练习题"
+title: "线性模型学习笔记"
 categories: [Data_Analysis]
 tags: [Data_Analysis]
 ---
