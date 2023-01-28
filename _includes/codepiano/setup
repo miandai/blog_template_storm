@@ -17,6 +17,6 @@
       {% assign ASSET_PATH = site.codepiano.ASSET_PATH %}
     {% else %}
       {% capture ASSET_PATH %}{{ BASE_PATH }}/assets/themes/{{ page.theme.name }}{% endcapture %}
-    {% endif %}  
+    {% endif %}
   {% endif %}
 {% endcapture %}{% assign jbcache = nil %}
