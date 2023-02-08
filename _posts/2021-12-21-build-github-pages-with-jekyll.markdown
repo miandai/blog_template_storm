@@ -500,25 +500,10 @@ plugins:
 
 再在本地安装 graphviz，可以通过 `conda install graphviz` 或者 `brew install graphviz`。然后 `bundle install` 再 `bundle exec jekyll serve` 在本地下一段看看效果：
 
-```graphviz
-{% raw %}{%{% endraw %} graph some graph title %}
-digraph G {
-    a -> b
-    b -> c
-    c -> a
-}
-{% raw %}{%{% endraw %} endgraph %}
-```
+
 
 如果看到如下效果，就说明你都配置成功了：
 
-{% graphviz some graph title %}
-digraph G {
-    a -> b
-    b -> c
-    c -> a
-}
-{% endgraphviz %}
 
 ##### Github Pages 上正常显示 Graphviz
 
