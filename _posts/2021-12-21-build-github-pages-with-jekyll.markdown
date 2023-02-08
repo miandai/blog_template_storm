@@ -16,6 +16,8 @@ tags: [Jekyll, Github Pages, 前端]
 
 ### 写在前面
 
+注：该文源自博客：https://www.mikecaptain.com/ ，这里仅暂时测试，后面会删除
+
 常见的静态网站生成器有 Jekyll、Hexo、Hugo。本文介绍如何用 Jekyll 生成静态的个人博客并关联 Github Pages，它也是 GitHub Pages 官方推荐的工具。
 
 <!--more-->
